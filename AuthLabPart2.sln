@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthLabPart2", "AuthLabPart2.csproj", "{10308BD6-B60A-4B9E-9054-9594B2D2DC8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10308BD6-B60A-4B9E-9054-9594B2D2DC8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10308BD6-B60A-4B9E-9054-9594B2D2DC8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10308BD6-B60A-4B9E-9054-9594B2D2DC8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10308BD6-B60A-4B9E-9054-9594B2D2DC8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26018FF0-30D1-4F96-8F4D-BA44CBDA847B}
+	EndGlobalSection
+EndGlobal
